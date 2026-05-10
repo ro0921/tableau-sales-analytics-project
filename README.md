@@ -199,20 +199,6 @@ Tableau's nested container system required planning on paper before building. Th
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### Sales Dashboard | 2023
-![Sales Dashboard](screenshots/sales_dashboard_2023.png)
-
-> *Total Sales: $733K | Total Profit: $93K | Total Quantity: 12K | All metrics vs. 2022 prior year*
-
-### Customer Dashboard | 2023
-![Customer Dashboard](screenshots/customer_dashboard_2023.png)
-
-> *Total Customers: 693 | Sales Per Customer: $1,058 | Total Orders: 1,687 | All metrics vs. 2022 prior year*
-
----
-
 ## 🧭 How to Use the Dashboard
 
 1. **Open the Tableau workbook** (`.twbx` file) in Tableau Desktop, or access via the Tableau Public link
@@ -224,31 +210,6 @@ Tableau's nested container system required planning on paper before building. Th
 7. **Use the trend chart reference lines** as benchmarks to classify individual periods as above or below average performance
 
 ---
-
-## 📂 Repository Structure
-
-```
-📁 tableau-sales-customer-dashboard/
-│
-├── 📁 workbook/
-│   └── Sales_Customer_Dashboard_2023.twbx      # Tableau packaged workbook
-│
-├── 📁 data/
-│   └── superstore_dataset.xlsx                  # Source dataset
-│
-├── 📁 screenshots/
-│   ├── sales_dashboard_2023.png                 # Sales Dashboard screenshot
-│   └── customer_dashboard_2023.png              # Customer Dashboard screenshot
-│
-├── 📁 design/
-│   ├── dashboard_mockup.pdf                     # Hand-drawn wireframe mockups
-│   └── project_phases.pdf                       # Dashboard design process documentation
-│
-└── README.md                                    # This file
-```
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates what a business intelligence analyst actually does: not just build charts, but ask the right questions, design the right structure, and deliver a system that helps decision-makers see what they could not see before.
